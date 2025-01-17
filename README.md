@@ -147,8 +147,9 @@ This endpoint allows users to submit feedback for a specific message in the chat
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-app.git
-cd chat-app
+git clone [https://github.com/yourusername/chat-app.git](https://github.com/RebekkalPangras/Syndio-AIML-BE-Takehome-Assignment---Rebekkal-Pangras.git)
+
+cd chat-app-backend
 ```
 
 ### Step 2: Run the Backend using Docker (Recommended)
@@ -206,7 +207,7 @@ This will start the backend server locally on [http://localhost:8000](http://loc
 ### Step 1: Clone the Frontend Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-app-react.git
+git [clone https://github.com/yourusername/chat-app-react.git](https://github.com/RebekkalPangras/Syndio-AIML-BE-Takehome-Assignment---Rebekkal-Pangras.git)
 cd chat-app-react
 ```
 
