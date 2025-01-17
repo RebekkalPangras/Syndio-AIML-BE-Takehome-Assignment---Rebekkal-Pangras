@@ -35,7 +35,7 @@ This repository contains a full-stack chat application with a **FastAPI backend*
 
 ## API Contract
 
-### 1. **POST** `/send_message`
+### 1. **POST** `/chat/message`
 - **Description**: Accepts a user message, sends it to a simulated AI assistant, and returns the user message along with the AI's response.
 - **Request Body**:
 
